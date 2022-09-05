@@ -1,3 +1,4 @@
-int calculate() {
-  return 6 * 7;
+// 水平線
+String divider() {
+  return "---";
 }
